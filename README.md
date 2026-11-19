@@ -66,6 +66,15 @@ Turns a project idea into a plan: scope, features, timeline, cost, and tech stac
 </tr>
 </table>
 
+#### 🌧️ Team weather projects · Smart India Hackathon 2026 · MoES / NCMRWF
+
+| Project | What it does | Stack |
+| :-- | :-- | :-- |
+| [**Samanvay** (PS26081)](https://github.com/FrustratedBoy420/081) | Blends physics weather models (ECMWF, GFS) with AI models (GraphCast, Pangu, FuXi, GenCast, AIFS). Weights adapt per grid cell, lead time, season and regime. Day-3 RMSE drops 4.8–12.6% against the best single model. | `Python` |
+| [**Regime-Aware Rainfall** (PS26080)](https://github.com/FrustratedBoy420/080) | Identifies the monsoon rainfall regime first, then applies a regime-specific bias correction to raw NWP rainfall forecasts. | `Python` |
+
+<sub>Team repos: [shreyashsri79/081](https://github.com/shreyashsri79/081) · [shreyashsri79/080](https://github.com/shreyashsri79/080)</sub>
+
 <sub>Earlier ML work: [Iris-ChatBot](https://github.com/FrustratedBoy420/Iris-ChatBot) · [DR-Model](https://github.com/FrustratedBoy420/DR-Model) · [AMD-Detection](https://github.com/FrustratedBoy420/AMD-Detection) · [Apple Scab Detection](https://github.com/FrustratedBoy420/Detection-of-Apple-Scab)</sub>
 
 ## Open Source

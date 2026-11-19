@@ -155,7 +155,7 @@ Real-time multiplayer backend for an arrow-based puzzle game, built to hold up u
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-FrustratedBoy420-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FrustratedBoy420)
-<!-- Drop a LinkedIn / Email / Portfolio badge here whenever you want them visible -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mridul_Jaiswal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mridul-jaiswal)
 
 </div>
 

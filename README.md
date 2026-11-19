@@ -75,7 +75,7 @@ Turns a project idea into a plan: scope, features, timeline, cost, and tech stac
 
 <sub>Team repos: [shreyashsri79/081](https://github.com/shreyashsri79/081) · [shreyashsri79/080](https://github.com/shreyashsri79/080)</sub>
 
-<sub>Earlier ML work: [Iris-ChatBot](https://github.com/FrustratedBoy420/Iris-ChatBot) · [DR-Model](https://github.com/FrustratedBoy420/DR-Model) · [AMD-Detection](https://github.com/FrustratedBoy420/AMD-Detection) · [Apple Scab Detection](https://github.com/FrustratedBoy420/Detection-of-Apple-Scab)</sub>
+<sub>Earlier ML work: [OptaNex](https://github.com/Heeraljiwnani/Optanex-the-eye-care-package-) eye-care backends ([IRIS chatbot](https://github.com/FrustratedBoy420/Iris-ChatBot) · [Diabetic Retinopathy API](https://github.com/FrustratedBoy420/DR-Model) · [AMD API](https://github.com/FrustratedBoy420/AMD-Detection)) · [Apple scab detection from hyperspectral scans](https://github.com/FrustratedBoy420/Detection-of-Apple-Scab)</sub>
 
 ## Open Source
 
